@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawerLayoutAndNavigationView</string>
+    <string name="category_1">Category 1</string>
+    <string name="category_2">Category 2</string>
+</resources>
